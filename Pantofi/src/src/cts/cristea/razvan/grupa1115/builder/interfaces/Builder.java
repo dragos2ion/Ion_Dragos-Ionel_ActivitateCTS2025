@@ -1,4 +1,4 @@
-package cts.cristea.razvan.grupa1115.builder.interfaces;
+package src.cts.cristea.razvan.grupa1115.builder.interfaces;
 
 import cts.cristea.razvan.grupa1115.builder.classes.Pantof;
 

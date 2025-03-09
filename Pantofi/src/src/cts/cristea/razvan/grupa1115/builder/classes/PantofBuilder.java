@@ -1,8 +1,8 @@
-package cts.cristea.razvan.grupa1115.builder.classes;
+package src.cts.cristea.razvan.grupa1115.builder.classes;
 
-import cts.cristea.razvan.grupa1115.builder.enumerations.ETipMaterial;
-import cts.cristea.razvan.grupa1115.builder.enumerations.ETipPantof;
-import cts.cristea.razvan.grupa1115.builder.interfaces.Builder;
+import src.cts.cristea.razvan.grupa1115.builder.enumerations.ETipMaterial;
+import src.cts.cristea.razvan.grupa1115.builder.enumerations.ETipPantof;
+import src.cts.cristea.razvan.grupa1115.builder.interfaces.Builder;
 
 import java.util.List;
 
