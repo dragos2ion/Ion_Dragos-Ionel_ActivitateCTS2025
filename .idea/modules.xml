@@ -4,6 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ActivitateCTS.iml" filepath="$PROJECT_DIR$/ActivitateCTS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder/Builder.iml" filepath="$PROJECT_DIR$/Builder/Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP01Singleton/DP01Singleton.iml" filepath="$PROJECT_DIR$/DP01Singleton/DP01Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP02Builder/DP02Builder.iml" filepath="$PROJECT_DIR$/DP02Builder/DP02Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP03SimpleFactory/DP03SimpleFactory.iml" filepath="$PROJECT_DIR$/DP03SimpleFactory/DP03SimpleFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP04FactoryMethod/DP04FactoryMethod.iml" filepath="$PROJECT_DIR$/DP04FactoryMethod/DP04FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/PantofiBuilder/PantofiBuilder.iml" filepath="$PROJECT_DIR$/PantofiBuilder/PantofiBuilder.iml" />
     </modules>
