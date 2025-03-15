@@ -1,7 +1,8 @@
-package src.cts.cristea.razvan.grupa1115.builder.classes;
+package classes;
 
-import src.cts.cristea.razvan.grupa1115.builder.enumerations.ETipMaterial;
-import src.cts.cristea.razvan.grupa1115.builder.enumerations.ETipPantof;
+
+import enumerations.ETipMaterial;
+import enumerations.ETipPantof;
 
 import java.util.List;
 

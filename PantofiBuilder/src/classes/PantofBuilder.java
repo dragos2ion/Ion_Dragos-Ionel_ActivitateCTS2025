@@ -1,10 +1,9 @@
-package src.cts.cristea.razvan.grupa1115.builder.classes;
+package classes;
 
-import src.cts.cristea.razvan.grupa1115.builder.enumerations.ETipMaterial;
-import src.cts.cristea.razvan.grupa1115.builder.enumerations.ETipPantof;
-import src.cts.cristea.razvan.grupa1115.builder.interfaces.Builder;
 
-import java.util.List;
+import enumerations.ETipMaterial;
+import enumerations.ETipPantof;
+import interfaces.Builder;
 
 public class PantofBuilder implements Builder {
     private Pantof pantof;

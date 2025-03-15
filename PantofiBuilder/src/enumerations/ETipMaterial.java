@@ -1,4 +1,4 @@
-package src.cts.cristea.razvan.grupa1115.builder.enumerations;
+package enumerations;
 
 public enum ETipMaterial {
     PIELE_NATURALA,

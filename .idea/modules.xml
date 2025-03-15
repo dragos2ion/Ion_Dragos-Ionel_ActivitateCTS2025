@@ -5,8 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/ActivitateCTS.iml" filepath="$PROJECT_DIR$/ActivitateCTS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder/Builder.iml" filepath="$PROJECT_DIR$/Builder/Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
-      <module fileurl="file://$PROJECT_DIR$/PantofiBuilder/Pantofi.iml" filepath="$PROJECT_DIR$/PantofiBuilder/Pantofi.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Subiect Pantofi/untitled.iml" filepath="$PROJECT_DIR$/Subiect Pantofi/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PantofiBuilder/PantofiBuilder.iml" filepath="$PROJECT_DIR$/PantofiBuilder/PantofiBuilder.iml" />
     </modules>
   </component>
 </project>
