@@ -34,7 +34,7 @@ public class PantofBuilder implements Builder {
         }
 
         if (pantof.tipPantof == ETipPantof.BALERINI && pantof.materialeSuplimentare.size() > 3) {
-            throw new Exception("Nu se pot da mai multe specificatii suplimentare pentru balerini\n");
+            throw new Exception("Nu se pot da mai multe specificatii suplimentare pentru balerini\nNu se pot da mai multe specificatii suplimentare pentru balerini\n");
         }
 
         int sumaLungimiMesaje = 0;

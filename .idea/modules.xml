@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/DP02Builder/DP02Builder.iml" filepath="$PROJECT_DIR$/DP02Builder/DP02Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/DP03SimpleFactory/DP03SimpleFactory.iml" filepath="$PROJECT_DIR$/DP03SimpleFactory/DP03SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/DP04FactoryMethod/DP04FactoryMethod.iml" filepath="$PROJECT_DIR$/DP04FactoryMethod/DP04FactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExersarePantofiBuilder/ExersarePantofiBuilder.iml" filepath="$PROJECT_DIR$/ExersarePantofiBuilder/ExersarePantofiBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/PantofiBuilder/PantofiBuilder.iml" filepath="$PROJECT_DIR$/PantofiBuilder/PantofiBuilder.iml" />
     </modules>
