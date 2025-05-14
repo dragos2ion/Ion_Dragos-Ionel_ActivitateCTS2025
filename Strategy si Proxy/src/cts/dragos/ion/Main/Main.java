@@ -1,13 +1,13 @@
-package cts.comarlau.vladConstantin.gr1115.Main;//sub nr 1
+package cts.dragos.ion.Main;//sub nr 1
 //de ce aceste pattern?
 // cts.comarlau.vladConstantin.gr1115.Strategy deoarece trebuie facuta o decizie cu privire la alegera unei implementari (strategii) de program din mai multe existente
 // cts.comarlau.vladConstantin.gr1115.Proxy deoarece sunt necesare implementari care sa restricitoneze modul de functionare al masinii de spalat
 
-import cts.comarlau.vladConstantin.gr1115.Clase.MasinaSpalatRufe;
-import cts.comarlau.vladConstantin.gr1115.Interfete.Electrocasnic;
-import cts.comarlau.vladConstantin.gr1115.Proxy.ProxyPornireProgram;
-import cts.comarlau.vladConstantin.gr1115.Strategy.StrategieClatiriMaxime;
-import cts.comarlau.vladConstantin.gr1115.Strategy.StrategieVitezaMaxima;
+import cts.dragos.ion.Clase.MasinaSpalatRufe;
+import cts.dragos.ion.Interfete.Electrocasnic;
+import cts.dragos.ion.Proxy.ProxyPornireProgram;
+import cts.dragos.ion.Strategy.StrategieClatiriMaxime;
+import cts.dragos.ion.Strategy.StrategieVitezaMaxima;
 
 public class Main {
     public static void main(String[] args) {

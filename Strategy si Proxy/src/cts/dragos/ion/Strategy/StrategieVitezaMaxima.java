@@ -1,9 +1,9 @@
-package cts.comarlau.vladConstantin.gr1115.Strategy;
+package cts.dragos.ion.Strategy;
 
 import java.util.ArrayList;
 
-public class StrategieClatiriMaxime implements IStrategie{
-    private String name = "Program numar maxim de clatiri";
+public class StrategieVitezaMaxima implements IStrategie{
+    private String name = "Program viteza maxima";
 
     public String getName() {
         return name;
@@ -13,7 +13,7 @@ public class StrategieClatiriMaxime implements IStrategie{
     public ProgramSpalare alege(ArrayList<ProgramSpalare> programe) {
         ProgramSpalare program = programe.get(0);
         for (ProgramSpalare p : programe) {
-            if(p.getClatiri() > program.getClatiri()) {
+            if(p.getViteza() > program.getViteza()) {
                 program = p;
             }
         }

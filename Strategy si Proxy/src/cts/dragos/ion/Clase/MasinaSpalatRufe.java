@@ -1,7 +1,10 @@
-package cts.comarlau.vladConstantin.gr1115.Clase;
+package cts.dragos.ion.Clase;
 
-import cts.comarlau.vladConstantin.gr1115.Interfete.Electrocasnic;
-import cts.comarlau.vladConstantin.gr1115.Strategy.*;
+import cts.dragos.ion.Interfete.Electrocasnic;
+import cts.dragos.ion.Strategy.IStrategie;
+import cts.dragos.ion.Strategy.ProgramSpalare;
+import cts.dragos.ion.Strategy.Selector;
+import cts.dragos.ion.Strategy.StrategieVitezaMaxima;
 
 public class MasinaSpalatRufe implements Electrocasnic {
     private ProgramSpalare program;

@@ -21,6 +21,7 @@
       <module fileurl="file://$PROJECT_DIR$/PantofiBuilder/PantofiBuilder.iml" filepath="$PROJECT_DIR$/PantofiBuilder/PantofiBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrimTestExercitiu/PrimTestExercitiu.iml" filepath="$PROJECT_DIR$/PrimTestExercitiu/PrimTestExercitiu.iml" />
       <module fileurl="file://$PROJECT_DIR$/SingletonCinematograf/SingletonCinematograf.iml" filepath="$PROJECT_DIR$/SingletonCinematograf/SingletonCinematograf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy si Proxy/Strategy si Proxy.iml" filepath="$PROJECT_DIR$/Strategy si Proxy/Strategy si Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/SubiectEtichetaBuilder/SubiectEtichetaBuilder.iml" filepath="$PROJECT_DIR$/SubiectEtichetaBuilder/SubiectEtichetaBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/SubiectRestaurantSingleton/SubiectRestaurantSingleton.iml" filepath="$PROJECT_DIR$/SubiectRestaurantSingleton/SubiectRestaurantSingleton.iml" />
     </modules>

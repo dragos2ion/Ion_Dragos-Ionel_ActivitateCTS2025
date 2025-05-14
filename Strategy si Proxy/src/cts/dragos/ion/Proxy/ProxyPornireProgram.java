@@ -1,6 +1,6 @@
-package cts.comarlau.vladConstantin.gr1115.Proxy;
+package cts.dragos.ion.Proxy;
 
-import cts.comarlau.vladConstantin.gr1115.Interfete.Electrocasnic;
+import cts.dragos.ion.Interfete.Electrocasnic;
 
 public class ProxyPornireProgram implements Electrocasnic {
     private Electrocasnic masinaDeSpalat;
