@@ -1,4 +1,4 @@
-package cts.comarlau.vladConstantin.gr1115.Interfete;
+package cts.dragos.ion.Interfete;
 
 public interface Electrocasnic {
 	public String getModel();
