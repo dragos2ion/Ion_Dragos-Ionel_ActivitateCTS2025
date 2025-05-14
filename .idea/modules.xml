@@ -18,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/MagazineMallBuilder/MagazineMallBuilder.iml" filepath="$PROJECT_DIR$/MagazineMallBuilder/MagazineMallBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/NewSubjectPantofi/NewSubjectPantofi.iml" filepath="$PROJECT_DIR$/NewSubjectPantofi/NewSubjectPantofi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Observer si PROXY/Observer si PROXY.iml" filepath="$PROJECT_DIR$/Observer si PROXY/Observer si PROXY.iml" />
       <module fileurl="file://$PROJECT_DIR$/PantofiBuilder/PantofiBuilder.iml" filepath="$PROJECT_DIR$/PantofiBuilder/PantofiBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrimTestExercitiu/PrimTestExercitiu.iml" filepath="$PROJECT_DIR$/PrimTestExercitiu/PrimTestExercitiu.iml" />
       <module fileurl="file://$PROJECT_DIR$/SingletonCinematograf/SingletonCinematograf.iml" filepath="$PROJECT_DIR$/SingletonCinematograf/SingletonCinematograf.iml" />
