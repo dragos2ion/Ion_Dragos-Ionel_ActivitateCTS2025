@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/AgentieSigleton/AgentieSigleton.iml" filepath="$PROJECT_DIR$/AgentieSigleton/AgentieSigleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/BibliotecaBuilder/BibliotecaBuilder.iml" filepath="$PROJECT_DIR$/BibliotecaBuilder/BibliotecaBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder/Builder.iml" filepath="$PROJECT_DIR$/Builder/Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CompositeProxyS1/CompositeProxyS1.iml" filepath="$PROJECT_DIR$/CompositeProxyS1/CompositeProxyS1.iml" />
       <module fileurl="file://$PROJECT_DIR$/DP/DP.iml" filepath="$PROJECT_DIR$/DP/DP.iml" />
       <module fileurl="file://$PROJECT_DIR$/DP01Singleton/DP01Singleton.iml" filepath="$PROJECT_DIR$/DP01Singleton/DP01Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/DP02Builder/DP02Builder.iml" filepath="$PROJECT_DIR$/DP02Builder/DP02Builder.iml" />
