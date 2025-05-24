@@ -1,4 +1,4 @@
-package DP.Structurale.Composite.ex1;
+
 
 
 public abstract class ANod {

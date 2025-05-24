@@ -1,4 +1,3 @@
-package DP.Structurale.Composite.ex1;
 
 
 public class Program {
