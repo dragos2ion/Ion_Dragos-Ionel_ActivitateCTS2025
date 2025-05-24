@@ -1,4 +1,3 @@
-package DP.Creationale.Factory.SimpleFactory;
 
 public class  PizzaFactory {
 	

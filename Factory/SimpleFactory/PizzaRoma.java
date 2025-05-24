@@ -1,6 +1,5 @@
-package DP.Creationale.Factory.FactoryMethod;
 
-public class PizzaRoma implements IPizza{
+public class PizzaRoma implements IPizza {
 	
 	@Override
 	public void afisareDescriere() {

@@ -1,4 +1,3 @@
-package DP.Creationale.Factory.FactoryMethod;
 
 public class FactoryPizzaVegetariana implements IFactory{
 
