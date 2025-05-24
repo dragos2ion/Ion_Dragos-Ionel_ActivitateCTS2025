@@ -1,4 +1,3 @@
-package DP.Creationale.Prototype;
 
 public class Program {
 
