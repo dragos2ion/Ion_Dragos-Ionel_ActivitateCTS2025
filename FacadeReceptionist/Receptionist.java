@@ -1,9 +1,9 @@
-package p06_facade;
+
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class Receptionist implements IReceptionist {
+public class Receptionist implements p06_facade.IReceptionist {
 	private static Receptionist instance;
 	/**
 	 * 0 - masa libera; 1 - masa libera si debarasata; 2 - masa libera, debarasata

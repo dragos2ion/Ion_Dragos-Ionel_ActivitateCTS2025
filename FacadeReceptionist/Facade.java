@@ -1,4 +1,4 @@
-package p06_facade;
+
 
 public class Facade {
 

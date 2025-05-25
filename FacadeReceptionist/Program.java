@@ -1,4 +1,3 @@
-package p06_facade;
 
 public class Program {
 
