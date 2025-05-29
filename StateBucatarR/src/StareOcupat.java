@@ -1,5 +1,3 @@
-package DP.Comportamentale.State;
-
 public class StareOcupat extends AStare{
 
 	public StareOcupat(Bucatar bucatar) {

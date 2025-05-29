@@ -1,5 +1,3 @@
-package DP.Comportamentale.State;
-
 public abstract class AStare {
 	protected Bucatar bucatar;
 	

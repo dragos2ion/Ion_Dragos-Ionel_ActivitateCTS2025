@@ -1,5 +1,3 @@
-package DP.Comportamentale.State;
-
 public class Bucatar {
 	private String  nume;
 	private int nrComenziInEfectuare;
