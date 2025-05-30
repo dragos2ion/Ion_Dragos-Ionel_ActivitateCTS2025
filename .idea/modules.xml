@@ -19,7 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/ExercitiuPrimulTest/ExercitiuPrimulTest.iml" filepath="$PROJECT_DIR$/ExercitiuPrimulTest/ExercitiuPrimulTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExersarePantofiBuilder/ExersarePantofiBuilder.iml" filepath="$PROJECT_DIR$/ExersarePantofiBuilder/ExersarePantofiBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/FacadeReceptionist/FacadeReceptionis.iml" filepath="$PROJECT_DIR$/FacadeReceptionist/FacadeReceptionis.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Factory/Factory.iml" filepath="$PROJECT_DIR$/Factory/Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryPIzza/FactoryPIzza.iml" filepath="$PROJECT_DIR$/FactoryPIzza/FactoryPIzza.iml" />
       <module fileurl="file://$PROJECT_DIR$/FlyweightPacient/FlyweightPacient.iml" filepath="$PROJECT_DIR$/FlyweightPacient/FlyweightPacient.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/MagazineMallBuilder/MagazineMallBuilder.iml" filepath="$PROJECT_DIR$/MagazineMallBuilder/MagazineMallBuilder.iml" />
@@ -29,6 +29,7 @@
       <module fileurl="file://$PROJECT_DIR$/PantofiBuilder/PantofiBuilder.iml" filepath="$PROJECT_DIR$/PantofiBuilder/PantofiBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrimTestExercitiu/PrimTestExercitiu.iml" filepath="$PROJECT_DIR$/PrimTestExercitiu/PrimTestExercitiu.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProxyMemento/ProxyMemento.iml" filepath="$PROJECT_DIR$/ProxyMemento/ProxyMemento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Factory/SimpleFactory.iml" filepath="$PROJECT_DIR$/Factory/SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/SingletonCinematograf/SingletonCinematograf.iml" filepath="$PROJECT_DIR$/SingletonCinematograf/SingletonCinematograf.iml" />
       <module fileurl="file://$PROJECT_DIR$/StateBucatarR/StateBucatarR.iml" filepath="$PROJECT_DIR$/StateBucatarR/StateBucatarR.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strategy si Proxy/Strategy si Proxy.iml" filepath="$PROJECT_DIR$/Strategy si Proxy/Strategy si Proxy.iml" />
