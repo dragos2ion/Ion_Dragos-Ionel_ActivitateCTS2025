@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ActivitateCTS.iml" filepath="$PROJECT_DIR$/ActivitateCTS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AdapterFacturi/AdapterFacturi.iml" filepath="$PROJECT_DIR$/AdapterFacturi/AdapterFacturi.iml" />
       <module fileurl="file://$PROJECT_DIR$/AgentieSigleton/AgentieSigleton.iml" filepath="$PROJECT_DIR$/AgentieSigleton/AgentieSigleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/BibliotecaBuilder/BibliotecaBuilder.iml" filepath="$PROJECT_DIR$/BibliotecaBuilder/BibliotecaBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder/Builder.iml" filepath="$PROJECT_DIR$/Builder/Builder.iml" />
